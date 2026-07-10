@@ -1,0 +1,2 @@
+- [Portfolio Site CloudFront Analysis](portfolio-cloudfront-analysis.md) — PriceClass_200 can be optimized to PriceClass_100, S3 lifecycle policies missing
+- [S3 Configuration Review](portfolio-s3-analysis.md) — STANDARD storage class, no lifecycle policies, minimal logging overhead (good)

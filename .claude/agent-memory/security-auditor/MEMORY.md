@@ -1,0 +1,2 @@
+- [Portfolio infra scope](project_portfolio_infra_scope.md) — no IAM/OIDC in terraform/ yet; backend.tf intentionally commented out pending bootstrap
+- [Recurring TF findings](recurring_tf_findings.md) — baseline gaps in the S3+CloudFront stack to re-check each audit (encryption, headers, logging, versioning, etc.)
